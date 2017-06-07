@@ -7,6 +7,6 @@ public class Greet {
     String food = "Halszemoldok";
   }
   public static void greet(){
-    System.out.println("Viktor");
+    System.out.println("Greetings");
   }
 }
