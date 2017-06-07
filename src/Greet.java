@@ -6,7 +6,7 @@ public class Greet {
     greet();
     String food = "Halszemoldok";
   }
-  public static void greet(){
-    System.out.println("Greetings");
+  public static void greet(String first, String second){
+    System.out.println(first + second);
   }
 }
