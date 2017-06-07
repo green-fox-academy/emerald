@@ -3,8 +3,8 @@
  */
 public class Count {
 
-  public static void count() {
-    System.out.println("04");
+  public static void count(String name, int age) {
+    System.out.println(name + age);
 
   }
 }
