@@ -3,7 +3,9 @@
  */
 public class Count {
 
+
   public static void count(String parameter) {
     System.out.println("Counting the countless" + parameter);
+
   }
 }
