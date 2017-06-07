@@ -5,7 +5,7 @@ public class Count {
 
 
   public static void count() {
-    System.out.println("30");
+    System.out.println("04");
   }
 
 }
